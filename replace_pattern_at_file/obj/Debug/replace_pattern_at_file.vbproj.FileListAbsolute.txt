@@ -1,9 +1,9 @@
-d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.vbprojResolveAssemblyReference.cache
+d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\bin\Debug\replace_pattern_at_file.exe.config
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.Resources.resources
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.vbproj.GenerateResource.Cache
+d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.xml
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\bin\Debug\replace_pattern_at_file.exe
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\bin\Debug\replace_pattern_at_file.pdb
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\bin\Debug\replace_pattern_at_file.xml
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.exe
-d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.xml
 d:\yuden\documents\visual studio 2015\Projects\replace_pattern_at_file\replace_pattern_at_file\obj\Debug\replace_pattern_at_file.pdb
